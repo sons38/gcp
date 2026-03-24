@@ -1,0 +1,6 @@
+{
+  "apphosting": {
+    "backendId": "portfolio-site",
+    "rootDir": "."
+  }
+}
